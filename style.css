@@ -1,0 +1,71 @@
+body{
+    background-image: url("https://images.unsplash.com/photo-1581985673473-0784a7a44e39?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YmFja2dyb3VuZCUyMGRlc2lnbnxlbnwwfHwwfHw%3D&w=1000&q=80");
+    background-size: cover;
+    background-repeat: repeat-y;
+    color: black;
+}
+
+.container{
+    
+    text-align: center;
+}
+
+.head{
+    margin: auto;
+    padding-top: 10px;
+    text-align: center;
+    max-width:960px;
+    padding-left:1rem;
+    padding-right:1rem;
+    margin:auto;
+    text-align:center;
+}
+
+p{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: smaller;
+    word-spacing: 3px;
+    letter-spacing: 2px;
+    padding-bottom: 0;
+}
+
+h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 60px;
+    padding-top: 40px;
+}
+
+select{
+  
+    width: 250px;
+    padding: 2px;
+    border-radius: 5px ;
+}
+
+.btn{
+    cursor: pointer;
+    box-shadow: 1px 2px rgb(107, 105, 100);
+    background: rgb(222,63,211);
+    background: radial-gradient(circle, rgba(222,63,211,0.8130602582830007) 0%, rgba(252,70,107,1) 100%);
+    color:#fff;
+    border: 2px solid pink ;
+    border-radius: 7px;
+    font-size:1.2rem;
+    padding: 1rem 2rem;
+    text-decoration: none;
+    margin-top: 40px;
+}
+
+#passage{
+    padding: 20px;
+    width: auto;
+    font-weight: 800;
+    font-size: large;
+   
+    text-align: center;
+    padding-top: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-justify: auto;
+    
+}
+
